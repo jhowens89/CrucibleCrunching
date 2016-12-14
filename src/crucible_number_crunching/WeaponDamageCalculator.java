@@ -1,6 +1,7 @@
 package crucible_number_crunching;
 
 import java.io.FileNotFoundException;
+import java.text.DecimalFormat;
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.Collections;
@@ -13,7 +14,6 @@ import java.util.TreeMap;
 
 import modifier.DamageModifier;
 import modifier.ModifierUtil;
-import extractor.ExxTrooperExtractor;
 import extractor.LocalDataExtractor;
 
 public class WeaponDamageCalculator {
@@ -61,7 +61,44 @@ public class WeaponDamageCalculator {
 			}
 
 		}
+		
+		
+		
+		//printRedditTable(sortedDamageResults);
 
+	}
+
+	private static void printRedditTable(List<WeaponDamageResult> sortedDamageResults) {
+		Collections.sort(sortedDamageResults, new Comparator<WeaponDamageResult>() {
+
+			@Override
+			public int compare(WeaponDamageResult o1, WeaponDamageResult o2) {
+				
+				if(!o1.weaponArchetype.weaponCategory.name().equals(o2.weaponArchetype.weaponCategory.name())) {
+					return o1.weaponArchetype.weaponCategory.name().compareTo(o2.weaponArchetype.weaponCategory.name());
+				} else {
+					return o1.weaponArchetype.archetypeLabel.compareTo(o2.weaponArchetype.archetypeLabel);
+				}
+			}
+		});
+		
+		for (WeaponDamageResult damageResult : sortedDamageResults) {
+			String weaponType = damageResult.weaponArchetype.weaponCategory.name();
+			String archetypeLabel = damageResult.weaponArchetype.archetypeLabel;
+			String example = damageResult.weaponArchetype.exampleName;
+			
+			DecimalFormat df = new DecimalFormat();
+			df.setMaximumFractionDigits(3);
+			double bodyMin = damageResult.finalBodyConstraint.minDamage;
+			double bodyMax = damageResult.finalBodyConstraint.maxDamage;
+			double range = bodyMax-bodyMin;
+			double critMin = damageResult.weaponArchetype.critMult* bodyMin;
+			double critMax = damageResult.weaponArchetype.critMult* bodyMax;
+			
+			String outputString = weaponType + "|" + archetypeLabel  + "|" + example + "| (" +  df.format(bodyMin) + ", " + df.format(bodyMax) + ") |" + df.format(range) + "| (" + df.format(critMin) + ", " + df.format(critMax) + ")";
+			System.out.println(outputString);
+			
+		}
 	}
 	
 	public static LinkedList<WeaponDamageResult> generateWeaponDamageResults(Map<String, WeaponDamageResult> finalConstrainedResultMap) {
