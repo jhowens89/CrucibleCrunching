@@ -1,0 +1,441 @@
+183.46212121212122 1 crits, 1 bodies unmodified and 1 crits, 0 bodies modified from Chaotic Neutral SMOOTH_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|REGULAR
+183.56738636363636 0 crits, 2 bodies unmodified and 1 crits, 3 bodies modified from Chaotic NeutralLike SOFT_BALLISTICS
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+183.60363636363638 
+	0 crits, 2 bodies unmodified and 0 crits, 0 bodies modified from The Last Word SMART_DRIFT_CONTROL
+	0 crits, 0 bodies unmodified and 0 crits, 1 bodies modified from Bonekruscher AGGRESSIVE_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+-------------------------------------------------------------------------------------------------------------------------------
+>>>>>>>>>>>>>>Armor 1 with Hp Value: 183.63636363636365<<<<<<<<<<<<<<<<<<<<< (0.04515151515)
+-------------------------------------------------------------------------------------------------------------------------------
+183.6487878787879 
+	0 crits, 1 bodies unmodified and 0 crits, 0 bodies modified from Eyasluna
+	0 crits, 0 bodies unmodified and 0 crits, 2 bodies modified from Chaotic NeutralLike SOFT_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+183.65454545454548 0 crits, 1 bodies unmodified and 0 crits, 2 bodies modified from The Last Word SOFT_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+183.65454545454548 0 crits, 1 bodies unmodified and 0 crits, 6 bodies modified from The Last Word SOFT_BALLISTICS
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+
+
+185.32681818181823 1 crits, 0 bodies unmodified and 0 crits, 2 bodies modified from Chaotic NeutralLike SOFT_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+185.40075757575758 1 crits, 1 bodies unmodified and 1 crits, 0 bodies modified from Hawkmoon FIELD_CHOKE
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+185.4340909090909 
+	1 crits, 0 bodies unmodified and 0 crits, 0 bodies modified from The Last Word SOFT_BALLISTICS
+	1 crits, 1 bodies unmodified and 0 crits, 0 bodies modified from Chaotic Neutral FIELD_CHOKE
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+-------------------------------------------------------------------------------------------------------------------------------
+>>>>>>>>>>>>>>Armor 2 with Hp Value: 185.45454545454547<<<<<<<<<<<<<<<<<<<<< (0.02102272727 or 0.03465909091)
+-------------------------------------------------------------------------------------------------------------------------------
+185.45511363636365 
+	0 crits, 0 bodies unmodified and 0 crits, 1 bodies modified from Thorn FIELD_CHOKE
+	0 crits, 1 bodies unmodified and 1 crits, 0 bodies modified from Chaotic NeutralLike SOFT_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|REGULAR
+185.46875 
+	0 crits, 0 bodies unmodified and 1 crits, 0 bodies modified from Hawkmoon AGGRESSIVE_BALLISTICS
+	0 crits, 0 bodies unmodified and 1 crits, 0 bodies modified from Chaotic NeutralLike SOFT_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|REGULAR
+185.50636363636363 
+	0 crits, 0 bodies unmodified and 1 crits, 0 bodies modified from Thorn FIELD_CHOKE
+	0 crits, 0 bodies unmodified and 0 crits, 1 bodies modified from Bonekruscher FIELD_CHOKE
+185.53181818181824 2 crits, 0 bodies unmodified and 1 crits, 0 bodies modified from Bonekruscher AGGRESSIVE_BALLISTICS
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+185.5498484848485 0 crits, 1 bodies unmodified and 3 crits, 1 bodies modified from Bonekruscher FIELD_CHOKE
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+
+
+
+187.09090909090912 0 crits, 0 bodies unmodified and 0 crits, 7 bodies modified from The Last Word AGGRESSIVE_BALLISTICS
+	 with modifiers: SuperDamageResistanceDamageModifier|SUNSINGER(0.5)
+187.25000000000003 
+	1 crits, 1 bodies unmodified and 0 crits, 0 bodies modified from The Last Word SOFT_BALLISTICS
+	1 crits, 0 bodies unmodified and 0 crits, 0 bodies modified from The Unseeing Eye AGGRESSIVE_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+-------------------------------------------------------------------------------------------------------------------------------
+>>>>>>>>>>>>>>Armor 3 with Hp Value: 187.27272727272728<<<<<<<<<<<<<<<<<<<<< (0.02348484848)
+-------------------------------------------------------------------------------------------------------------------------------
+187.27348484848486 
+	0 crits, 1 bodies unmodified and 0 crits, 1 bodies modified from The Last Word AGGRESSIVE_BALLISTICS
+	1 crits, 0 bodies unmodified and 0 crits, 0 bodies modified from Chaotic Neutral FIELD_CHOKE
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+187.2818181818182 
+	0 crits, 0 bodies unmodified and 0 crits, 1 bodies modified from Hawkmoon AGGRESSIVE_BALLISTICS
+	0 crits, 2 bodies unmodified and 0 crits, 0 bodies modified from Bane of the Taken SOFT_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|REGULAR
+187.3121212121212 
+	0 crits, 0 bodies unmodified and 0 crits, 1 bodies modified from The Last Word SOFT_BALLISTICS
+	2 crits, 0 bodies unmodified and 0 crits, 0 bodies modified from Chaotic Neutral SMOOTH_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+187.4321212121212 0 crits, 2 bodies unmodified and 0 crits, 4 bodies modified from Chaotic Neutral FIELD_CHOKE
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+187.51515151515153 0 crits, 0 bodies unmodified and 2 crits, 4 bodies modified from Bane of the Taken SMOOTH_BALLISTICS
+	 with modifiers: SuperDamageResistanceDamageModifier|SUNSINGER(0.5)
+187.51515151515153 0 crits, 2 bodies unmodified and 0 crits, 1 bodies modified from Bane of the Taken SMOOTH_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|REGULAR
+
+
+
+
+
+188.66522727272724 0 crits, 0 bodies unmodified and 6 crits, 1 bodies modified from Chaotic Neutral FIELD_CHOKE
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+188.87575757575758 0 crits, 1 bodies unmodified and 2 crits, 4 bodies modified from Chaotic Neutral SMOOTH_BALLISTICS
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+188.95757575757574 1 crits, 0 bodies unmodified and 2 crits, 2 bodies modified from Bane of the Taken SMOOTH_BALLISTICS
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+188.97272727272727 1 crits, 0 bodies unmodified and 1 crits, 2 bodies modified from First Curse SOFT_BALLISTICS
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+189.05454545454546 
+	1 crits, 1 bodies unmodified and 0 crits, 0 bodies modified from The Last Word SOFT_BALLISTICS
+	0 crits, 0 bodies unmodified and 0 crits, 1 bodies modified from Chaotic Neutral SMOOTH_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+189.0895454545455 
+	0 crits, 0 bodies unmodified and 0 crits, 1 bodies modified from Hawkmoon FIELD_CHOKE
+	0 crits, 1 bodies unmodified and 0 crits, 1 bodies modified from Chaotic NeutralLike SOFT_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+189.0909090909091 0 crits, 0 bodies unmodified and 0 crits, 6 bodies modified from Ill Will
+	 with modifiers: SuperDamageResistanceDamageModifier|SUNSINGER(0.5)
+-------------------------------------------------------------------------------------------------------------------------------
+>>>>>>>>>>>>>>Armor 4 with Hp Value: 189.0909090909091<<<<<<<<<<<<<<<<<<<<< (0.01272727273)
+-------------------------------------------------------------------------------------------------------------------------------
+189.10227272727272 
+	1 crits, 1 bodies unmodified and 0 crits, 0 bodies modified from Thorn FIELD_CHOKE
+	1 crits, 0 bodies unmodified and 0 crits, 0 bodies modified from Chaotic NeutralLike SOFT_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+189.1559090909091 0 crits, 1 bodies unmodified and 1 crits, 4 bodies modified from Bane of the Taken SOFT_BALLISTICS
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+189.31818181818184 0 crits, 0 bodies unmodified and 5 crits, 0 bodies modified from Bonekruscher AGGRESSIVE_BALLISTICS
+	 with modifiers: SuperDamageResistanceDamageModifier|SUNSINGER(0.5)
+189.31818181818187 0 crits, 0 bodies unmodified and 2 crits, 0 bodies modified from Bonekruscher AGGRESSIVE_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|REGULAR
+
+
+
+
+
+190.8327272727273 0 crits, 0 bodies unmodified and 4 crits, 2 bodies modified from Bonekruscher AGGRESSIVE_BALLISTICS
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+190.84848484848484 0 crits, 2 bodies unmodified and 0 crits, 3 bodies modified from Eyasluna
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+190.84848484848484 0 crits, 2 bodies unmodified and 0 crits, 1 bodies modified from Eyasluna
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+190.9027272727273 
+	0 crits, 0 bodies unmodified and 0 crits, 1 bodies modified from The Last Word AGGRESSIVE_BALLISTICS
+	0 crits, 1 bodies unmodified and 0 crits, 1 bodies modified from The Unseeing Eye AGGRESSIVE_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+190.90625 
+	0 crits, 1 bodies unmodified and 0 crits, 0 bodies modified from Thorn FIELD_CHOKE
+	1 crits, 0 bodies unmodified and 1 crits, 0 bodies modified from Chaotic Neutral FIELD_CHOKE
+	 with modifiers: WeaponsOfLightDamageModifier|REGULAR
+190.9090909090909 0 crits, 1 bodies unmodified and 1 crits, 4 bodies modified from The Last Word SMART_DRIFT_CONTROL
+	 with modifiers: SuperDamageResistanceDamageModifier|SUNSINGER(0.5)
+-------------------------------------------------------------------------------------------------------------------------------
+>>>>>>>>>>>>>>Armor 5 with Hp Value: 190.9090909090909<<<<<<<<<<<<<<<<<<<<< (0.02443181818)
+-------------------------------------------------------------------------------------------------------------------------------
+190.90909090909093 0 crits, 0 bodies unmodified and 1 crits, 6 bodies modified from The Last Word SMART_DRIFT_CONTROL
+	 with modifiers: SuperDamageResistanceDamageModifier|SUNSINGER(0.5)
+190.93068181818182 
+	0 crits, 1 bodies unmodified and 0 crits, 0 bodies modified from **Ace of Spades SOFT_BALLISTICS
+	0 crits, 1 bodies unmodified and 1 crits, 0 bodies modified from The Unseeing Eye AGGRESSIVE_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|REGULAR
+190.93295454545455 
+	0 crits, 0 bodies unmodified and 1 crits, 0 bodies modified from Thorn FIELD_CHOKE
+	0 crits, 0 bodies unmodified and 1 crits, 0 bodies modified from The Unseeing Eye AGGRESSIVE_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+191.10000000000002 1 crits, 1 bodies unmodified and 0 crits, 3 bodies modified from The Last Word SOFT_BALLISTICS
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+191.10000000000002 1 crits, 1 bodies unmodified and 0 crits, 1 bodies modified from The Last Word SOFT_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+191.1314393939394 0 crits, 0 bodies unmodified and 3 crits, 4 bodies modified from Chaotic Neutral FIELD_CHOKE
+	 with modifiers: SuperDamageResistanceDamageModifier|SUNSINGER(0.5)
+
+
+
+
+
+192.4848484848485 0 crits, 0 bodies unmodified and 4 crits, 3 bodies modified from Chaotic Neutral SMOOTH_BALLISTICS
+	 with modifiers: SuperDamageResistanceDamageModifier|SUNSINGER(0.5)
+192.63522727272726 0 crits, 1 bodies unmodified and 1 crits, 5 bodies modified from The Unseeing Eye AGGRESSIVE_BALLISTICS
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+192.6352272727273 0 crits, 1 bodies unmodified and 1 crits, 1 bodies modified from The Unseeing Eye AGGRESSIVE_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|REGULAR
+192.6909090909091 
+	1 crits, 0 bodies unmodified and 0 crits, 0 bodies modified from The Last Word AGGRESSIVE_BALLISTICS
+	0 crits, 2 bodies unmodified and 0 crits, 0 bodies modified from Bane of the Taken SOFT_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+192.7 1 crits, 0 bodies unmodified and 0 crits, 4 bodies modified from Hawkmoon FIELD_CHOKE
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+-------------------------------------------------------------------------------------------------------------------------------
+>>>>>>>>>>>>>>Armor 6 with Hp Value: 192.72727272727272<<<<<<<<<<<<<<<<<<<<< (0.03151515152)
+-------------------------------------------------------------------------------------------------------------------------------
+192.73151515151517 
+	0 crits, 2 bodies unmodified and 0 crits, 0 bodies modified from Hawkmoon FIELD_CHOKE
+	0 crits, 0 bodies unmodified and 0 crits, 1 bodies modified from Bane of the Taken SOFT_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+192.73333333333335 
+	1 crits, 0 bodies unmodified and 0 crits, 0 bodies modified from The Last Word SOFT_BALLISTICS
+	0 crits, 2 bodies unmodified and 0 crits, 0 bodies modified from Bonekruscher FIELD_CHOKE
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+192.9422727272727 0 crits, 0 bodies unmodified and 5 crits, 1 bodies modified from Bonekruscher FIELD_CHOKE
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+
+
+
+
+
+194.40909090909093 0 crits, 0 bodies unmodified and 1 crits, 5 bodies modified from Hawkmoon AGGRESSIVE_BALLISTICS
+	 with modifiers: SuperDamageResistanceDamageModifier|SUNSINGER(0.5)
+194.53000000000003 2 crits, 0 bodies unmodified and 0 crits, 1 bodies modified from The Unseeing Eye AGGRESSIVE_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+194.53 2 crits, 0 bodies unmodified and 0 crits, 3 bodies modified from The Unseeing Eye AGGRESSIVE_BALLISTICS
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+194.5380681818182 
+	0 crits, 0 bodies unmodified and 1 crits, 0 bodies modified from Eyasluna
+	0 crits, 0 bodies unmodified and 1 crits, 0 bodies modified from Chaotic NeutralLike SOFT_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+194.54545454545453 
+	0 crits, 1 bodies unmodified and 0 crits, 1 bodies modified from Hawkmoon FIELD_CHOKE
+	1 crits, 0 bodies unmodified and 0 crits, 0 bodies modified from The Unseeing Eye AGGRESSIVE_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|REGULAR
+-------------------------------------------------------------------------------------------------------------------------------
+>>>>>>>>>>>>>>Armor 7 with Hp Value: 194.54545454545456<<<<<<<<<<<<<<<<<<<<< (0.01102272727)
+-------------------------------------------------------------------------------------------------------------------------------
+194.54909090909095 
+	0 crits, 1 bodies unmodified and 0 crits, 0 bodies modified from Thorn FIELD_CHOKE
+	0 crits, 1 bodies unmodified and 0 crits, 1 bodies modified from Bonekruscher AGGRESSIVE_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+194.71045454545452 0 crits, 1 bodies unmodified and 0 crits, 7 bodies modified from Chaotic NeutralLike SOFT_BALLISTICS
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+194.72727272727272 0 crits, 0 bodies unmodified and 1 crits, 7 bodies modified from The Last Word SMART_DRIFT_CONTROL
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+194.72727272727275 0 crits, 0 bodies unmodified and 2 crits, 0 bodies modified from Bane of the Taken SMOOTH_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+
+
+
+
+196.18772727272727 0 crits, 0 bodies unmodified and 3 crits, 4 bodies modified from Bane of the Taken SOFT_BALLISTICS
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+196.33484848484852 
+	0 crits, 0 bodies unmodified and 0 crits, 1 bodies modified from The Last Word SOFT_BALLISTICS
+	0 crits, 1 bodies unmodified and 1 crits, 0 bodies modified from Chaotic Neutral SMOOTH_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+196.35795454545456 
+	0 crits, 1 bodies unmodified and 0 crits, 1 bodies modified from Thorn FIELD_CHOKE
+	0 crits, 0 bodies unmodified and 1 crits, 0 bodies modified from The Unseeing Eye AGGRESSIVE_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|REGULAR
+-------------------------------------------------------------------------------------------------------------------------------
+>>>>>>>>>>>>>>Armor 8 with Hp Value: 196.36363636363637<<<<<<<<<<<<<<<<<<<<< (0.007196969697)
+-------------------------------------------------------------------------------------------------------------------------------
+196.36515151515152 
+	0 crits, 1 bodies unmodified and 0 crits, 1 bodies modified from Hawkmoon FIELD_CHOKE
+	0 crits, 1 bodies unmodified and 0 crits, 0 bodies modified from Bonekruscher FIELD_CHOKE
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+196.37878787878788 
+	0 crits, 2 bodies unmodified and 0 crits, 0 bodies modified from Ill Will
+	1 crits, 0 bodies unmodified and 0 crits, 0 bodies modified from Bane of the Taken SOFT_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+196.44545454545454 0 crits, 3 bodies unmodified and 1 crits, 0 bodies modified from The Last Word AGGRESSIVE_BALLISTICS
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+196.44545454545454 2 crits, 0 bodies unmodified and 1 crits, 0 bodies modified from The Last Word AGGRESSIVE_BALLISTICS
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+196.4698863636364 2 crits, 0 bodies unmodified and 1 crits, 0 bodies modified from Chaotic NeutralLike SOFT_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+196.54545454545453 0 crits, 3 bodies unmodified and 0 crits, 1 bodies modified from Eyasluna
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+196.8909090909091 0 crits, 0 bodies unmodified and 0 crits, 7 bodies modified from Bane of the Taken SOFT_BALLISTICS
+	 with modifiers: SuperDamageResistanceDamageModifier|SUNSINGER(0.5)
+
+
+
+
+
+
+
+197.64818181818183 0 crits, 0 bodies unmodified and 5 crits, 1 bodies modified from Bonekruscher AGGRESSIVE_BALLISTICS
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+197.96969696969697 0 crits, 1 bodies unmodified and 3 crits, 1 bodies modified from Eyasluna
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+198.1169696969697 0 crits, 2 bodies unmodified and 0 crits, 3 bodies modified from Bonekruscher FIELD_CHOKE
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+198.1169696969697 0 crits, 2 bodies unmodified and 0 crits, 1 bodies modified from Bonekruscher FIELD_CHOKE
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+198.1757575757576 
+	0 crits, 0 bodies unmodified and 0 crits, 1 bodies modified from Ill Will
+	0 crits, 1 bodies unmodified and 0 crits, 1 bodies modified from Chaotic Neutral SMOOTH_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+198.1818181818182 
+	0 crits, 2 bodies unmodified and 0 crits, 0 bodies modified from Ill Will
+	1 crits, 0 bodies unmodified and 0 crits, 0 bodies modified from Bane of the Taken SMOOTH_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+-------------------------------------------------------------------------------------------------------------------------------
+>>>>>>>>>>>>>>Armor 9 with Hp Value: 198.1818181818182<<<<<<<<<<<<<<<<<<<<< (0.02424242424)
+-------------------------------------------------------------------------------------------------------------------------------
+198.2 
+	0 crits, 2 bodies unmodified and 0 crits, 0 bodies modified from Thorn FIELD_CHOKE
+	0 crits, 2 bodies unmodified and 0 crits, 0 bodies modified from Chaotic NeutralLike SOFT_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+198.29090909090905 0 crits, 2 bodies unmodified and 0 crits, 4 bodies modified from Thorn FIELD_CHOKE
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+198.5 0 crits, 0 bodies unmodified and 1 crits, 7 bodies modified from Chaotic Neutral SMOOTH_BALLISTICS
+	 with modifiers: SuperDamageResistanceDamageModifier|SUNSINGER(0.5)
+
+
+
+
+
+
+199.76318181818178 0 crits, 0 bodies unmodified and 4 crits, 4 bodies modified from Chaotic Neutral FIELD_CHOKE
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+199.78636363636366 0 crits, 2 bodies unmodified and 1 crits, 0 bodies modified from The Last Word SOFT_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+199.8181818181818 0 crits, 1 bodies unmodified and 3 crits, 2 bodies modified from The Last Word SMART_DRIFT_CONTROL
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+199.985 
+	1 crits, 0 bodies unmodified and 0 crits, 0 bodies modified from Hawkmoon AGGRESSIVE_BALLISTICS
+	0 crits, 1 bodies unmodified and 0 crits, 1 bodies modified from Chaotic NeutralLike SOFT_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+199.98874999999998 0 crits, 1 bodies unmodified and 1 crits, 6 bodies modified from Chaotic NeutralLike SOFT_BALLISTICS
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+199.98874999999998 0 crits, 1 bodies unmodified and 5 crits, 1 bodies modified from Chaotic NeutralLike SOFT_BALLISTICS
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+199.99545454545455 
+	0 crits, 0 bodies unmodified and 0 crits, 1 bodies modified from Hawkmoon FIELD_CHOKE
+	0 crits, 2 bodies unmodified and 0 crits, 0 bodies modified from Bonekruscher AGGRESSIVE_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED	 
+-------------------------------------------------------------------------------------------------------------------------------
+>>>>>>>>>>>>>>Armor 10 with Hp Value: 200.0<<<<<<<<<<<<<<<<<<<<< (0.0196969697)
+-------------------------------------------------------------------------------------------------------------------------------
+200.0151515151515 
+	0 crits, 1 bodies unmodified and 0 crits, 0 bodies modified from The Last Word SOFT_BALLISTICS
+	0 crits, 0 bodies unmodified and 2 crits, 0 bodies modified from Chaotic Neutral SMOOTH_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|REGULAR
+200.0225378787879 
+	0 crits, 2 bodies unmodified and 0 crits, 0 bodies modified from Hawkmoon FIELD_CHOKE
+	0 crits, 0 bodies unmodified and 1 crits, 0 bodies modified from Chaotic Neutral FIELD_CHOKE
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+200.03030303030303 
+	0 crits, 1 bodies unmodified and 0 crits, 0 bodies modified from Thorn FIELD_CHOKE
+	2 crits, 0 bodies unmodified and 0 crits, 0 bodies modified from Bonekruscher FIELD_CHOKE
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+200.1212121212121 1 crits, 1 bodies unmodified and 1 crits, 0 bodies modified from Ill Will
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+200.30454545454543 0 crits, 0 bodies unmodified and 1 crits, 8 bodies modified from Chaotic Neutral SMOOTH_BALLISTICS
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+
+
+
+
+
+
+202.51636363636365 0 crits, 0 bodies unmodified and 4 crits, 3 bodies modified from Bane of the Taken SOFT_BALLISTICS
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+202.91893939393935 0 crits, 1 bodies unmodified and 3 crits, 1 bodies modified from Hawkmoon FIELD_CHOKE
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+202.94909090909096 0 crits, 2 bodies unmodified and 0 crits, 3 bodies modified from Bonekruscher AGGRESSIVE_BALLISTICS
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+202.94909090909096 0 crits, 2 bodies unmodified and 0 crits, 1 bodies modified from Bonekruscher AGGRESSIVE_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+203.00606060606063 
+	1 crits, 1 bodies unmodified and 0 crits, 0 bodies modified from Eyasluna
+	0 crits, 1 bodies unmodified and 0 crits, 0 bodies modified from Bonekruscher AGGRESSIVE_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+203.0121212121212 
+	0 crits, 2 bodies unmodified and 0 crits, 0 bodies modified from Thorn FIELD_CHOKE
+	0 crits, 2 bodies unmodified and 0 crits, 0 bodies modified from Chaotic Neutral FIELD_CHOKE
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+-------------------------------------------------------------------------------------------------------------------------------
+>>>>>>>>>>>>>>Armor 11 with Hp Value: 203.03030303030303<<<<<<<<<<<<<<<<<<<<< (0.0196969697)
+-------------------------------------------------------------------------------------------------------------------------------
+203.0318181818182 
+	0 crits, 0 bodies unmodified and 1 crits, 0 bodies modified from Thorn FIELD_CHOKE
+	0 crits, 0 bodies unmodified and 1 crits, 0 bodies modified from Bane of the Taken SMOOTH_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+203.03977272727275 
+	0 crits, 0 bodies unmodified and 0 crits, 2 bodies modified from The Last Word SOFT_BALLISTICS
+	0 crits, 0 bodies unmodified and 1 crits, 0 bodies modified from The Unseeing Eye AGGRESSIVE_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|REGULAR
+203.0427272727273 
+	1 crits, 0 bodies unmodified and 0 crits, 0 bodies modified from The Last Word SMART_DRIFT_CONTROL
+	0 crits, 0 bodies unmodified and 0 crits, 2 bodies modified from Chaotic NeutralLike SOFT_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+203.12727272727273 0 crits, 2 bodies unmodified and 0 crits, 4 bodies modified from The Last Word AGGRESSIVE_BALLISTICS
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+203.21954545454548 1 crits, 0 bodies unmodified and 1 crits, 4 bodies modified from Bane of the Taken SOFT_BALLISTICS
+	 with modifiers: SuperDamageResistanceDamageModifier|RADIANT_SKIN_SUNSINGER(0.55)
+203.46249999999998 0 crits, 0 bodies unmodified and 1 crits, 7 bodies modified from Chaotic Neutral FIELD_CHOKE
+	 with modifiers: SuperDamageResistanceDamageModifier|SUNSINGER(0.5)
+203.46249999999998 0 crits, 1 bodies unmodified and 2 crits, 0 bodies modified from Chaotic Neutral FIELD_CHOKE
+	 with modifiers: WeaponsOfLightDamageModifier|REGULAR
+
+
+
+
+
+
+
+
+207.4090909090909 0 crits, 0 bodies unmodified and 1 crits, 1 bodies modified from **Ace of Spades SOFT_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+208.72727272727272 2 crits, 1 bodies unmodified and 0 crits, 0 bodies modified from Thorn FIELD_CHOKE
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+209.0606060606061 
+	2 crits, 0 bodies unmodified and 0 crits, 0 bodies modified from The Last Word SOFT_BALLISTICS
+	1 crits, 0 bodies unmodified and 0 crits, 0 bodies modified from Chaotic Neutral SMOOTH_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+209.0606060606061 
+	2 crits, 0 bodies unmodified and 0 crits, 0 bodies modified from The Last Word SOFT_BALLISTICS
+	1 crits, 0 bodies unmodified and 0 crits, 0 bodies modified from Chaotic Neutral SMOOTH_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|REGULAR
+-------------------------------------------------------------------------------------------------------------------------------
+>>>>>>>>>>>>>>Armor 12 with Hp Value: 209.0909090909091<<<<<<<<<<<<<<<<<<<<< (0.04212121212)
+-------------------------------------------------------------------------------------------------------------------------------
+209.1027272727273 
+	0 crits, 0 bodies unmodified and 0 crits, 2 bodies modified from Thorn FIELD_CHOKE
+	0 crits, 0 bodies unmodified and 0 crits, 1 bodies modified from The Unseeing Eye AGGRESSIVE_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+209.10727272727274 
+	0 crits, 0 bodies unmodified and 0 crits, 1 bodies modified from Eyasluna
+	0 crits, 1 bodies unmodified and 0 crits, 1 bodies modified from Bane of the Taken SOFT_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+209.32727272727274 0 crits, 3 bodies unmodified and 0 crits, 1 bodies modified from Chaotic Neutral SMOOTH_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+209.36363636363637 0 crits, 1 bodies unmodified and 0 crits, 2 bodies modified from Hawkmoon AGGRESSIVE_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|REGULAR
+
+
+
+
+
+216.49090909090913 0 crits, 0 bodies unmodified and 2 crits, 0 bodies modified from The Last Word AGGRESSIVE_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+217.15909090909093 1 crits, 1 bodies unmodified and 1 crits, 0 bodies modified from The Last Word SOFT_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|REGULAR
+218.0945454545455 1 crits, 1 bodies unmodified and 0 crits, 1 bodies modified from Bonekruscher AGGRESSIVE_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+218.1757575757576 
+	0 crits, 1 bodies unmodified and 0 crits, 0 bodies modified from Eyasluna
+	0 crits, 2 bodies unmodified and 0 crits, 1 bodies modified from Chaotic Neutral SMOOTH_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+218.17727272727274 
+	0 crits, 0 bodies unmodified and 1 crits, 0 bodies modified from Thorn FIELD_CHOKE
+	0 crits, 2 bodies unmodified and 0 crits, 0 bodies modified from Bane of the Taken SOFT_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+-------------------------------------------------------------------------------------------------------------------------------
+>>>>>>>>>>>>>>Armor 13 with Hp Value: 218.1818181818182<<<<<<<<<<<<<<<<<<<<< (0.01590909091)
+-------------------------------------------------------------------------------------------------------------------------------
+218.19318181818187 
+	0 crits, 0 bodies unmodified and 0 crits, 1 bodies modified from The Last Word SOFT_BALLISTICS
+	0 crits, 1 bodies unmodified and 1 crits, 0 bodies modified from Bane of the Taken SOFT_BALLISTICS
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+218.20075757575756 
+	0 crits, 3 bodies unmodified and 0 crits, 0 bodies modified from Thorn FIELD_CHOKE
+	1 crits, 0 bodies unmodified and 0 crits, 0 bodies modified from Chaotic Neutral FIELD_CHOKE
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+218.81575757575757 0 crits, 1 bodies unmodified and 0 crits, 2 bodies modified from Bonekruscher FIELD_CHOKE
+	 with modifiers: WeaponsOfLightDamageModifier|ILLUMINATED
+218.97727272727275 0 crits, 0 bodies unmodified and 0 crits, 3 bodies modified from Hawkmoon FIELD_CHOKE
+	 with modifiers: WeaponsOfLightDamageModifier|REGULAR
